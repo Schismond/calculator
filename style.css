@@ -36,7 +36,6 @@ body{
     grid-template-columns: repeat(4, 1fr);
     grid-template-rows: repeat(5, 1fr);
     gap: 9px;
-    /*background-color: black;*/
     margin: 9px;
     transition: all ease 0.2s;
 }
