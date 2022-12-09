@@ -30,6 +30,7 @@ body{
     display: flex;
     flex-direction: column;
     box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.5);
+    flex-shrink: 1;
 }
 
 .buttons-grid{
@@ -40,6 +41,8 @@ body{
     gap: 9px;
     margin: 9px;
     transition: all ease 0.2s;
+    flex-shrink: 1;
+
 }
 
 .operations{
